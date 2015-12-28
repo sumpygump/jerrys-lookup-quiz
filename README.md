@@ -10,7 +10,7 @@ Download and install [DOSBox](http://www.dosbox.com/download.php?main=1) for
 your current operating system.
 
 Download and unzip [QBasic version
-4.5](http://www.phatcode.net/downloads.php?id=172). Unzip the archive
+4.5]http://www.qbasic.net/en/qbasic-downloads/compiler/qbasic-compiler.htm). Unzip the archive
 `qb45.zip` and place on your hard drive in a directory known to you. When
 unzipped, the files will be placed in the current directory.
 
