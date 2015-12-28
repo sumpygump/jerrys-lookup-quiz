@@ -71,6 +71,14 @@ Once QBasic is running, choose from the menu `File -> Open Program...` to
 navigate to the `JERRYS.BAS` program file and press enter. Once loaded, press
 `F5` to run the program.
 
+You can also launch the game directly from the DOSBox terminal by running the
+following:
+
+```
+cd JERRYS~1
+QB /run JERRYS.BAS
+```
+
 In the game, you will be presented with a random produce item. Using the
 keypad, type in the look-up code for that item and then press the `Page Down`
 key on your keyboard (this key is an approximate location of the UPC button on
